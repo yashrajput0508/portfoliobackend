@@ -1,0 +1,18 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    password: adtgvgafbenemuhy
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+    username: yasharajput0408@gmail.com
+
+server:
+  port: 8083
+  
+
+
